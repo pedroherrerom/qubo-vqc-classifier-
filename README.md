@@ -1,6 +1,6 @@
 # qubo-vqc-classifier
 
-A hybrid quantum–classical pipeline for binary molecular classification (Master's Thesis, University of Vigo). Combines **QUBO-based feature selection** via simulated annealing with a **Variational Quantum Classifier (VQC)**, benchmarked against classical baselines (Logistic Regression, SVM-RBF) and QSVC. Designed for HPC execution on CESGA Finisterrae III using [Qiskit](https://qiskit.org/), [polypus](https://github.com/polypus) and [CUNQA](https://cunqa.readthedocs.io).
+A hybrid quantum–classical pipeline for binary molecular classification (Master in Quantum Information Science and Technologies (MQIST), Master's Thesis, University of Vigo, academic curse 2025/2026). Combines **QUBO-based feature selection** via simulated annealing with a **Variational Quantum Classifier (VQC)**, benchmarked against classical baselines (Logistic Regression, SVM-RBF) and QSVC. Designed for HPC execution on CESGA Finisterrae III using [Qiskit](https://qiskit.org/), [polypus](https://github.com/polypus) and [CUNQA](https://cunqa.readthedocs.io).
 
 > **Status:** Active research — TFM (Master's Thesis) project.
 
