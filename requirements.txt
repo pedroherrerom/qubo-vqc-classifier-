@@ -1,0 +1,24 @@
+# Core quantum computing
+qiskit>=2.1
+qiskit-aer>=0.14
+
+# QUBO / simulated annealing
+dimod>=0.12
+neal>=0.6
+
+# Machine learning & numerics
+scikit-learn>=1.3
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Optional – HPC / cluster only (not installed locally)
+# cunqa>=2.4.0
+# polypus  (QML branch, Rust extension – install from source)
+
+# Optional – molecular descriptor datasets
+# rdkit>=2023.3
